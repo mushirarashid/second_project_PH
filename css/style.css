@@ -100,7 +100,7 @@ nav .line{
 }
 /* nav_responsive start */
 
-@media (min-width: 400px) and (max-width: 767.98px) {
+@media (min-width: 350px) and (max-width: 767.98px) {
     nav .container {
         padding: 10px;
     }
@@ -229,7 +229,7 @@ nav .line{
 }
 /* hero_part responsive start */
 
-@media (min-width: 400px) and (max-width: 767.98px) {
+@media (min-width: 350px) and (max-width: 767.98px) {
     #hero_section .container{
         padding-inline: 10px;
     }
@@ -433,7 +433,7 @@ nav .line{
 }
 
 /* responsive start */
-@media (min-width: 400px) and (max-width: 767.98px) {
+@media (min-width: 350px) and (max-width: 767.98px) {
     #card_section {
         padding-block: 0;
     }
@@ -639,7 +639,7 @@ nav .line{
     margin-block-end: 60px;
 }
 /* responsive start */
-@media (min-width: 400px) and (max-width: 767.98px) {
+@media (min-width: 350px) and (max-width: 767.98px) {
     #story_section .story_container .all_story .item1{
         display: none;
     }
@@ -735,7 +735,7 @@ nav .line{
     margin-block-end: 32px;
 }
 /* responsive strat */
-@media (min-width: 400px) and (max-width: 767.98px) {
+@media (min-width: 350px) and (max-width: 767.98px) {
     #footer_section .container{
         padding-inline: 10px;
     }
